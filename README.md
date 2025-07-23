@@ -61,17 +61,6 @@ python3 port_scanner.py 192.168.1.1 --udp -p 53,161,123
 
 ---
 
-## 📁 File Structure
-
-```
-port_scanner.py         # Main scanner script
-README.md               # This file
-LICENSE                 # License info
-requirements.txt        # Dependencies
-```
-
----
-
 ## 📦 Requirements
 
 - Python 3.6+
@@ -88,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📣 Author
 
-Created by **Anas Khan (rahiXlive)** 🇵🇰  
+Created by **Anas Khan (At Danger)** 🇵🇰  
 Learning Ethical Hacking | Python & Networking Enthusiast  
 GitHub: [your-github-profile](https://github.com/yourusername)
 
